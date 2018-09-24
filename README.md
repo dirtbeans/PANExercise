@@ -11,6 +11,7 @@ SQL Server Management Studio
 ```
 Database can be created via Database folder Then Table can be created and filled with values
 
+```
 1.Open Project
 2.From Home Page Click List of Games
 3.Pick a game and look at Details(SINGLE ITEM)
@@ -22,7 +23,7 @@ Database can be created via Database folder Then Table can be created and filled
 9.Enter in GameName/MinPlayer/MaxPlayer
 10.Create (SAVE ITEM)
 11.Click on List of Games to see your newly added game
-
+```
 ###Issues to Resolve
 ```
 gameCode can't be changed 
