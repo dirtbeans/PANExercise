@@ -24,7 +24,7 @@ Database can be created via Database folder Then Table can be created and filled
 10.Create (SAVE ITEM)
 11.Click on List of Games to see your newly added game
 ```
-###Issues to Resolve
+Issues to Resolve
 ```
 gameCode can't be changed 
 need to check for duplicates 
